@@ -1,2 +1,3 @@
-Git is a version control system.
-Git is free software. �Բ�
+﻿Git is a version control system.
+Git is free software. 卧槽
+hello world   xxx
